@@ -9,7 +9,7 @@
 * [Setup Requirement](#setup-requirement)
 
 ## General info
-This project targets potential market segment for Bone Suppliment as their Product .
+> This project targets potential market segment for Bone Suppliment as their Product .
 	
 ## Technologies
 Project is created with:
