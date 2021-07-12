@@ -38,7 +38,7 @@ In the project , We have proposed 3-different models namely ,
 > [Rahul Sah](https://www.linkedin.com/in/rahul-sah-nits)
 [Pinjari Rahil Hussain](https://github.com/rahilhussain)
 [Tonoy Baruah](https://github.com/TonoyB)
-[Yelleti Krishna Chaitanya](https://www.linkedin.com/in/yelleti-krishna-32947b19a)
+[Yelleti Krishna Chaitanya](https://github.com/ykrislt15368)
 
 
 
