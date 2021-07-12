@@ -32,13 +32,13 @@ In the project , We have proposed 3-different models namely ,
 - XGBoostClassifier[`BoneSupplement_market_XGBoost.ipynb`]
 
 ### Source 
-- [Dataset](https://www.kaggle.com/rajanand/key-indicators-of-annual-health-survey?select=Key_indicator_statewise.csv)
+> [Dataset](https://www.kaggle.com/rajanand/key-indicators-of-annual-health-survey?select=Key_indicator_statewise.csv)
 
 ## Teamates
-[Rahul Sah](https://github.com/rahulsah1436)
-[Pinjari Rahil Hussain]()
-[Tonoy Baruah]()
-[Yelleti Krishna Chaitanya]()
+> [Rahul Sah](https://www.linkedin.com/in/rahul-sah-nits)
+[Pinjari Rahil Hussain](https://www.linkedin.com/in/rahil-hussain-pinjari)
+[Tonoy Baruah](https://www.facebook.com/zingalalahuhu)
+[Yelleti Krishna Chaitanya](https://www.linkedin.com/in/yelleti-krishna-32947b19a)
 
 
 
